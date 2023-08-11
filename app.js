@@ -1,5 +1,5 @@
-const add=(x,y)=>{
-    return x+y;
+const add=(x,y,z)=>{
+    return x+y+z;
 }
 const x=add(12,1,8);
 console.log(x);
